@@ -1,1 +1,1 @@
-AI Algorithm For Search 
+**AI Algorithm For Search** 
